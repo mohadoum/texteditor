@@ -1,0 +1,45 @@
+K:\Formation\C#\Lab 5\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+K:\Formation\C#\Lab 5\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+K:\Formation\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+K:\Formation\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Asse\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Asse\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\bin\Debug\FileEditor.exe
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\bin\Debug\FileEditor.pdb
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\MainWindow.baml
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\MainWindow.g.cs
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\App.g.cs
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\FileEditor.g.resources
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Cours\C#\Souche 51\FileEditor\bin\Debug\FileEditor.exe
+D:\Cours\C#\Souche 51\FileEditor\bin\Debug\FileEditor.pdb
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csprojAssemblyReference.cache
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\MainWindow.baml
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\MainWindow.g.cs
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\App.g.cs
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\FileEditor.g.resources
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.cache
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CoreCompileInputs.cache
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+C:\Users\thian\source\repos\Souche 51\FileEditor\bin\Debug\FileEditor.exe
+C:\Users\thian\source\repos\Souche 51\FileEditor\bin\Debug\FileEditor.pdb
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csprojResolveAssemblyReference.cache
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\App.g.cs
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\FileEditor.g.resources
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.Cache
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CoreCompileInputs.cache
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+C:\Users\thian\source\repos\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb

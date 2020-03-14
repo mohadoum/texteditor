@@ -1,0 +1,28 @@
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\bin\Debug\FileEditor.exe
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\bin\Debug\FileEditor.pdb
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\MainWindow.baml
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\MainWindow.g.cs
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\App.g.cs
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\FileEditor.g.resources
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\FileEditor.Properties.Resources.resources
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\FileEditor.exe
+\\tsclient\D\C# Course Lab Code\Module5\FileEditor\obj\x86\Debug\FileEditor.pdb
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\bin\Debug\FileEditor.exe
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\bin\Debug\FileEditor.pdb
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\FileEditor.g.resources
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\FileEditor.Properties.Resources.resources
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\FileEditor.exe
+E:\Labfiles\Lab 5\Ex 1\Starter\FileEditor\obj\x86\Debug\FileEditor.pdb
+K:\Formation\C#\Lab 5\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+K:\Formation\C#\Lab 5\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
