@@ -8,4 +8,4 @@ Cet éditeur a été réalisé avec C#. Il vise à simuler certains comportement
      
  Aperçu:    
      
- ![simulation d'une édition de fichier](https://drive.google.com/uc?id=1f0hQyh0EQBLCx0m3vDqsgdbaNN_WJ2C8)
+ ![simulation d'une édition de fichier](https://drive.google.com/uc?id=1oA-wH91-8sawJhw-r00bOTrrcK0XhOLL)
